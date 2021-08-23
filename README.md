@@ -1,5 +1,7 @@
 # Astromatch
 
+![Animação](https://user-images.githubusercontent.com/79018513/130493403-5a8a33cd-74dd-4c07-9431-967fecfd33cc.gif)
+
 
 **Sobre**
 Astromatch é uma aplicação desenvolvida em React JS e inspirado no tinder.
