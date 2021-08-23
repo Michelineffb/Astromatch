@@ -26,5 +26,8 @@ Astromatch é uma aplicação desenvolvida em React JS e inspirado no tinder.
 - Botão que acessa a tela de matches;
 - Excluir lista de perfins que deram matches
 
+**O que não foi implementado:
+- Alert de correspondência de match.
+
 
 
